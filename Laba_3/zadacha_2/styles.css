@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid;
+
+}
+
+td {
+    background-color: rgb(221, 251, 187);
+    border: 1px solid;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+
+}
+
+td:nth-child(2n) {
+    background: rgb(175, 220, 124);
+}
+
+.GK {
+    width: 180px;
+
+}
+
+.titleBackground {
+    background-color: green;
+
+}
+
+.title {
+    color: white;
+}

@@ -1,0 +1,18 @@
+td{
+    background-color: #76c8ff;
+    border: 1px solid white;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+
+.companyName{
+    color: white;
+    padding: 10px 30px;
+    background-color: deepskyblue;
+}
+
+.Q{
+    color: white;
+    background-color: deepskyblue;
+}
